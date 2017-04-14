@@ -1,0 +1,58 @@
+{
+	"index.html": {
+		"resources": [
+			"img/content_09 (2).png",
+			"img/content_08.png",
+			"img/content_10.png",
+			"img/content_13.png",
+			"img/qq.png",
+			"img/content_03.png",
+			"img/content_06 (2).png",
+			"img/content_09.png",
+			"img/content_01.png",
+			"css/new_file.css",
+			"js/new_file.js",
+			"img/content_10 (2).png",
+			"img/weixin_06.png",
+			"img/content_05_01.png",
+			"img/ufo.png",
+			"img/logo.png",
+			"img/content_03 (2).png",
+			"img/content_06.png",
+			"img/pig_03.png",
+			"img/banner_02.png",
+			"UI.html"
+		],
+		"refer": [
+			"UI.html"
+		]
+	},
+	"UI.html": {
+		"resources": [
+			"img-ui/fwtx3.png",
+			"img-ui/ui2back.png",
+			"img-ui/uititle2.png",
+			"img-ui/fwtx6.png",
+			"img-ui/banner1.png",
+			"img-ui/fwtx2.png",
+			"img-ui/bfb.png",
+			"img-ui/uibanner.png",
+			"img-ui/btn.png",
+			"img-ui/uititle1.png",
+			"img-ui/ui51.png",
+			"img-ui/fwtx5.png",
+			"img-ui/uititle3.png",
+			"img-ui/ui11s.png",
+			"img-ui/ui1lines.png",
+			"img-ui/ui2lines.png",
+			"img-ui/ui52.png",
+			"css/ui.css",
+			"img-ui/fwtx4.png",
+			"img-ui/ui54.png",
+			"js/ui.js",
+			"img-ui/ui53.png",
+			"img-ui/ui55.png",
+			"img-ui/fwtx1.png"
+		]
+	}
+}

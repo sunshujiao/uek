@@ -1,0 +1,351 @@
+{
+	"index.html": {
+		"resources": [
+			"img/content_09 (2).png",
+			"img/content_08.png",
+			"img/content_10.png",
+			"img/content_13.png",
+			"img/qq.png",
+			"img/content_03.png",
+			"img/content_06 (2).png",
+			"img/content_09.png",
+			"img/content_01.png",
+			"css/new_file.css",
+			"js/new_file.js",
+			"img/content_10 (2).png",
+			"img/weixin_06.png",
+			"img/content_05_01.png",
+			"img/ufo.png",
+			"img/logo.png",
+			"img/content_03 (2).png",
+			"img/content_06.png",
+			"img/pig_03.png",
+			"img/banner_02.png",
+			"UI.html",
+			"全栈开发.html",
+			"PHP.html",
+			"热门问题.html",
+			"WEB.html",
+			"金牌师资.html",
+			"媒体报道.html",
+			"高薪学员.html",
+			"remenwenti.html",
+			"gaoxinxueyuan.html",
+			"meitibaodao.html",
+			"jinpaishizi.html",
+			"quanzhankaifa.html",
+			"dongtai.html",
+			"about-us.html",
+			"mianfeishiting.html",
+			"mianfeitijian.html",
+			"zhuxuedaikuan.html"
+		],
+		"refer": [
+			"UI.html",
+			"全栈开发.html",
+			"PHP.html",
+			"热门问题.html",
+			"WEB.html",
+			"金牌师资.html",
+			"媒体报道.html",
+			"高薪学员.html",
+			"remenwenti.html",
+			"gaoxinxueyuan.html",
+			"meitibaodao.html",
+			"jinpaishizi.html",
+			"quanzhankaifa.html",
+			"dongtai.html",
+			"about-us.html",
+			"mianfeishiting.html",
+			"mianfeitijian.html",
+			"zhuxuedaikuan.html"
+		]
+	},
+	"UI.html": {
+		"resources": [
+			"img-ui/fwtx3.png",
+			"img-ui/ui2back.png",
+			"img-ui/uititle2.png",
+			"img-ui/fwtx6.png",
+			"img-ui/banner1.png",
+			"img-ui/fwtx2.png",
+			"img-ui/bfb.png",
+			"img-ui/uibanner.png",
+			"img-ui/btn.png",
+			"img-ui/uititle1.png",
+			"img-ui/ui51.png",
+			"img-ui/fwtx5.png",
+			"img-ui/uititle3.png",
+			"img-ui/ui11s.png",
+			"img-ui/ui1lines.png",
+			"img-ui/ui2lines.png",
+			"img-ui/ui52.png",
+			"css/ui.css",
+			"img-ui/fwtx4.png",
+			"img-ui/ui54.png",
+			"js/ui.js",
+			"img-ui/ui53.png",
+			"img-ui/ui55.png",
+			"img-ui/fwtx1.png",
+			"index.html",
+			"img/qq.png",
+			"img/weixin_06.png",
+			"img/pig_03.png"
+		],
+		"refer": [
+			"index.html"
+		]
+	},
+	"PHP.html": {
+		"resources": [
+			"css/PHP.css",
+			"img-ui/fwtx3.png",
+			"img/phpzw3.png",
+			"img-ui/fwtx2.png",
+			"img/phptitle3.png",
+			"img-ui/btn.png",
+			"img-ui/fwtx5.png",
+			"img/phpzw4.png",
+			"img/phpren.png",
+			"img/phpzw6.png",
+			"img-ui/fwtx4.png",
+			"img/phpzw1.png",
+			"img-ui/fwtx1.png",
+			"img/phptitle4.png",
+			"img-ui/fwtx6.png",
+			"img/phptitle6.png",
+			"img/titleL.png",
+			"img/titleR.png",
+			"img/phpzw2.png",
+			"js/PHP.js",
+			"img/phpbanner.png",
+			"img/phptitle8.png",
+			"index.html",
+			"img/phptitle2.png",
+			"img/phptitle1.png",
+			"img/bfb1.png",
+			"img/bfb2.png",
+			"img/phpzw5.png",
+			"img/phptitle5.png",
+			"img/phptitle7.png"
+		],
+		"refer": [
+			"index.html"
+		]
+	},
+	"WEB.html": {
+		"resources": [
+			"css/web.css",
+			"img/webbfb.png",
+			"js/WEB.js",
+			"img/web4back.png",
+			"img/webkcback.png",
+			"img/loading.gif",
+			"img/web1back.png",
+			"index.html",
+			"img/xiaoren.png",
+			"img/webbanner.png",
+			"img/about_004.png",
+			"img/web1backs.png",
+			"img/web4back2.png",
+			"img/qq.png",
+			"img-ui/ui1lines.png",
+			"img/weixin_06.png",
+			"img/pig_03.png"
+		],
+		"refer": [
+			"index.html"
+		]
+	},
+	"remenwenti.html": {
+		"resources": [
+			"img/hot_01.png",
+			"img/s2.png",
+			"js/remenwenti.js",
+			"img/s3.png",
+			"img/s4.png",
+			"img/banner3.jpg",
+			"css/remenwenti.css",
+			"img/s1.png",
+			"index.html",
+			"meitibaodao.html"
+		],
+		"refer": [
+			"index.html",
+			"meitibaodao.html"
+		]
+	},
+	"gaoxinxueyuan.html": {
+		"resources": [
+			"img/20170112064505763.png",
+			"img/20170112072340349.png",
+			"img/20170112063652908.png",
+			"img/20170112072558735.png",
+			"img/20170112065942818.png",
+			"css/gaoxinxueyuan.css",
+			"js/gaoxinxueyuan.js",
+			"index.html"
+		],
+		"refer": [
+			"index.html"
+		]
+	},
+	"meitibaodao.html": {
+		"resources": [
+			"img/media_line.png",
+			"js/meitibaodao.js",
+			"css/meitibaodao.css",
+			"img/media_icon.png",
+			"img/20170117025727653.jpg",
+			"img/20170117032029524.jpg",
+			"img/20170117030101717.jpg",
+			"img/20170217023531383.png",
+			"img/20170117033628827.jpg",
+			"index.html",
+			"img/s2.png",
+			"img/s3.png",
+			"img/banner3.jpg",
+			"img/s4.png",
+			"img/s1.png",
+			"gaoxinxueyuan.html"
+		],
+		"refer": [
+			"index.html",
+			"gaoxinxueyuan.html"
+		]
+	},
+	"jinpaishizi.html": {
+		"resources": [
+			"img/20170117100230613.png",
+			"img/20170117100044477.png",
+			"img/20170117100341670.png",
+			"css/jinpaishizi.css",
+			"img/20170117094821695.png",
+			"img/20170117100439237.png",
+			"js/jinpaishizi.js",
+			"index.html"
+		],
+		"refer": [
+			"index.html"
+		]
+	},
+	"quanzhankaifa.html": {
+		"resources": [
+			"img/qzanniu.png",
+			"img/orange.png",
+			"img/red.png",
+			"img/sz6.png",
+			"img/sz2.png",
+			"img/qzzw2.png",
+			"img/qzzw5.png",
+			"img/qzbanner.png",
+			"img/sz5.png",
+			"img/blue.png",
+			"img/webkcback.png",
+			"img/qzzw7.png",
+			"css/quanzhankaifa.css",
+			"img/qzzw3.png",
+			"img/qztitleback.png",
+			"img/qzzw4.png",
+			"img/sz3.png",
+			"img-ui/ui1lines.png",
+			"img/qzfw2.png",
+			"img/qzzw6.png",
+			"img/yellow.png",
+			"img/qzfw3.png",
+			"img/qzbili.png",
+			"img/qzfw4.png",
+			"img/qzfw6.png",
+			"img/qzzw1.png",
+			"img/sz1.png",
+			"js/quanzhankaifa.js",
+			"img/qzfw5.png",
+			"img/sz4.png",
+			"img/qzfw1.png",
+			"img/green.png",
+			"img/qzyyk.png",
+			"img/qz1back.png",
+			"img/qzzw8.png",
+			"img/pursle.png",
+			"index.html"
+		],
+		"refer": [
+			"index.html"
+		]
+	},
+	"dongtai.html": {
+		"resources": [
+			"img/s2.png",
+			"img/media_line.png",
+			"img/20170316061331747.png",
+			"img/20170316061637456.png",
+			"css/dongtai.css",
+			"img/s3.png",
+			"img/s4.png",
+			"img/media_icon.png",
+			"img/20170316061658501.png",
+			"img/20170316061557304.jpg",
+			"img/s1.png",
+			"img/20170317055339911.png",
+			"js/dongtai.js",
+			"index.html"
+		],
+		"refer": [
+			"index.html"
+		]
+	},
+	"about-us.html": {
+		"resources": [
+			"img/about_002.png",
+			"index.html",
+			"css/about-us.css",
+			"js/about-us.js",
+			"img/about_004.png",
+			"img/banner3.jpg",
+			"img/about_003.png",
+			"img/about_001.png",
+			"remenwenti.html"
+		],
+		"refer": [
+			"index.html",
+			"remenwenti.html"
+		]
+	},
+	"mianfeishiting.html": {
+		"resources": [
+			"img/jiantou.png",
+			"js/mianfeishiting.js",
+			"css/mianfeishiting.css",
+			"img/qzbanner.png",
+			"img/gkk2.png",
+			"img/gkk1.png",
+			"index.html"
+		],
+		"refer": [
+			"index.html"
+		]
+	},
+	"mianfeitijian.html": {
+		"resources": [
+			"img/20170110084850366.png",
+			"index.html",
+			"js/mianfeitijian.js",
+			"css/mianfeitijian.css",
+			"img/20170110084913829.png",
+			"img/20170110084834874.png"
+		],
+		"refer": [
+			"index.html"
+		]
+	},
+	"zhuxuedaikuan.html": {
+		"resources": [
+			"css/zhuxuedaikuan.css",
+			"index.html",
+			"js/zhuxuedaikuan.js"
+		],
+		"refer": [
+			"index.html"
+		]
+	}
+}

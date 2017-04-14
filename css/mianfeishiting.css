@@ -1,0 +1,423 @@
+a{
+	text-decoration: none;
+	color: #E7E7E7;
+}
+*{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+body {
+    font-size: 12px;
+    font-family: "苹方","微软雅黑", "Helvetica";
+    background-color: #f5f6fa
+}
+.head{
+	width: 100%;
+	height: 7.2rem;
+}
+.header{
+	width: 100%;
+	height: 1.25rem;
+	background: #31BAFF;
+	display: flex;
+	position: fixed;
+	z-index: 10;
+}
+.header li:nth-child(1){
+	width: 20%;
+}
+.header li:nth-child(2){
+	width: 20%;
+}
+.header li:nth-child(3){
+	width: 20%;
+}
+.header li:nth-child(4){
+	width: 20%;
+}
+.header li:nth-child(5){
+	width: 20%;
+}
+.header li a{
+	display: block;
+	text-align: center;
+	line-height: 1.23rem;
+	color: #fff;
+	font-size: 0.50rem;
+}
+/*banner开始*/
+.banner{
+	display: block;
+	overflow: hidden;
+	width: 100%;
+	height: 5.95rem;
+	position: absolute;
+}
+.banner a{
+	display: block;
+	width: 100%;
+	height: 7.2rem;
+	background-image:url(../img/qzbanner.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-top: -1.3rem;
+}
+/*免费体检开始*/
+.jinpaishizi{
+	width: 100%;
+	height: 9rem;
+	background: #F5F6FA;
+}
+.jinpaishizi1{
+	width: 100%;
+	height: 1.25rem;
+	/*background: red;*/
+	margin-top: -1.3rem;
+}
+.jinpaishizi1 a{
+	font-size: 0.45rem;
+	line-height: 1.25rem;
+	margin-left: 0.3rem;
+	color: #000;
+}
+.jinpaishizi1 span{
+	font-size: 0.6rem;
+	margin-left: 0.2rem;
+}
+.jiangshi{
+	width: 10.15rem;
+	height: auto;
+	margin: auto;
+	background: #fff;
+	overflow: hidden;
+}
+.jiangshi .jihua{
+	width: 9.45rem;
+	height: 29rem;
+	margin: auto;
+	/*background: blue;*/
+	overflow: hidden;
+	margin-top: 0.5rem;
+}
+.biaoti{
+	width: 100%;
+	height: 2.4rem;
+	/*background: red;*/
+}
+.biaoti .biaoti1{
+	width: 100%;
+	height: 1rem;
+	/*background: green;*/
+	text-align: center;
+	letter-spacing: 1px;
+	/*margin-top: -0.2rem;*/
+}
+.biaoti1 span{
+	font-size: 0.3rem;
+	/*line-height: 1rem;*/
+	color: #979797;
+}
+.hengxian{
+	width: 1.17rem;
+	height: 1px;
+	margin: auto;
+	background: #666;
+	margin-top: 0.3rem;
+}
+.biaoti p{
+	display: block;
+	width: 100%;
+	height: 0.3rem;
+	text-align: center;
+	margin-top:0.4rem;
+	font-size: 0.3rem;
+	color: #666;
+}
+.one{
+	width: 100%;
+	height: 6.5rem;
+	/*background: green;*/
+}
+.one p{
+	display: block;
+	width: 100%;
+	height: 3.5rem;
+	font-size: 0.4rem;
+	text-align: left;
+	margin-bottom: 0.2rem;
+}
+.biao{
+	width: 100%;
+	height: 2.7rem;
+	/*background: yellow;*/
+	position: relative;
+	display: flex;
+	border-top: 1px solid #666;
+	border-bottom: 1px solid #666;
+}
+.xian{
+	width: 100%;
+	height: 0.02rem;
+	background: #666;
+	margin-top: 1rem;
+	position: absolute;
+}
+.left{
+	width: 25%;
+	height: 100%;
+	/*background: blue;*/
+}
+.text{
+	width: 40%;
+	/*background: red;*/
+}
+.right{
+	width: 35%;
+	/*background: blue;*/
+	overflow: hidden;
+}
+.left span{
+	display: block;
+	font-size: 0.3rem;
+	color: #333;	
+}
+.left span:nth-child(1){
+	line-height: 1.2rem;
+	text-align: center;
+}
+.left span:nth-child(2){
+	line-height: 0.5rem;
+	text-align: center;	
+}
+.text span{
+	display: block;
+	font-size: 0.3rem;
+	color: #333;	
+}
+.text span:nth-child(1){
+	line-height: 1.2rem;
+	text-align: center;
+}
+.text span:nth-child(2){
+	line-height: 0.5rem;
+	text-align: center;	
+}
+.right span{
+	display: block;
+	font-size: 0.3rem;
+	color: #333;	
+}
+.right span:nth-child(1){
+	line-height: 1.2rem;
+	text-align: center;
+}
+.right span:nth-child(2){
+	line-height: 0.5rem;
+	text-align: center;	
+}
+.szh-p{
+	width: 100%;
+	height: 5.5rem;
+	/*background: blue;*/
+	margin-bottom: 0.3rem;
+}
+.szh-p p{
+	color: #666;
+	font-size: 0.3rem;
+	width: 100%;
+	height: auto;
+	line-height: 0.5rem;
+	text-align: left;
+}
+.szh-img{
+	width: 8.2rem;
+	height: 3rem;
+	margin: auto;
+	margin-bottom: 0.3rem;
+}
+.szh-img img:nth-child(1){
+	width: 3.6rem;
+	height: 100%;
+	margin: 0 0.2rem;
+	float: left;
+}
+.szh-img img:nth-child(2){
+	width: 3.6rem;
+	height: 100%;
+	margin: 0 0.2rem;
+	float: right;
+}
+.content{
+	width: 100%;
+	height: 5rem;
+	border-top: 1px solid #666;
+	border-bottom: 1px solid #666;
+	/*background: red;*/
+}
+.content .top{
+	width: 100%;
+	height: 3rem;
+	border-bottom: 1px solid #666;
+}
+.content .top .left01{
+	width: 2rem;
+	height: 100%;
+	margin-left: 0.3rem;
+	line-height: 2rem;
+	text-align: center;
+	float: left;
+	font-size: 0.7rem;
+}
+.content .top .text01{
+	width: 4rem;
+	height: 100%;
+	float: left;
+	margin-left: -0.2rem;
+}
+.content .top .text01 p{
+	margin-bottom: 0.06rem;
+    line-height: 0.6rem;
+    font-size: 0.4rem;
+}
+.jiantou{
+	width: 0.4rem;
+	height: 0.9rem;
+	float: left;
+	background-image: url(../img/jiantou.png);
+	background-size: cover;
+	margin: 0.9rem 0;
+}
+.content .top .right01{
+	width: 2.5rem;
+	height: 100%;
+	float: left;
+	line-height: 0.6rem;
+	/*font-size: 0.4rem;*/
+}
+.content .top .right01 p{
+	font-size: 0.3rem;
+}
+.content .bottom{
+	width: 100%;
+	height: 1.6rem;
+}
+.content .bottom .left02{
+	width: 2rem;
+	height: 100%;
+	margin-left: 0.3rem;
+	line-height: 2rem;
+	text-align: center;
+	float: left;
+	font-size: 0.7rem;
+}
+.content .bottom .right02{
+	width: 9rem;
+	height: 100%;
+	line-height: 2rem;
+	font-size: 0.4rem;
+}
+.content .bottom .right02 span{
+	font-size: 0.4rem;
+}
+.ding{
+	width: 100%;
+	/*height: 0.8rem;*/
+	margin-top: 0.5rem;
+	margin-bottom: 2rem;
+}
+.ding .dingbu{
+	width: 10rem;
+	height: 100%;
+	margin: auto;
+	/*background: red;*/	
+}
+.dingbu p{
+	font-size: 0.2rem;
+	text-align: center;
+}
+.lianxi{
+	width: 100%;
+	display: flex;
+	position: fixed;
+	bottom: 0;
+	background: #E7E7E7;
+}
+.lianxi .left{
+	width: 30%;
+	height: 100%;
+	background: #E7E7E7;
+}
+.lianxi .left a{
+	display: block;
+	float: left;
+	display: flex;
+	align-items: center;
+}
+.lianxi .left span{
+	display: inline-block;
+	line-height: 1.5rem;
+	margin-left: 0.2rem;
+	float: right;
+	color: #000;
+	font-size: 0.4rem;
+	text-align: center;
+}
+.lianxi .left img{
+	width: 0.8rem;
+	height: 0.8rem;
+	margin-left: 0.25rem;
+}
+.lianxi .right{
+	width: 30%;
+	height: 100%;
+	background: #E7E7E7;
+}
+.lianxi .right a{
+	display: inline-block;
+	float: left;
+	display: flex;
+	align-items: center;
+}
+.lianxi .right span{
+	display: inline-block;
+	line-height: 1.5rem;
+	margin-left: 0.2rem;
+	float: right;
+	color: #000;
+	font-size: 0.4rem;
+	text-align: center;
+}
+.lianxi .right img{
+	width: 0.8rem;
+	height: 0.8rem;
+	margin-left: 0.2rem;
+}
+.lianxi .text{
+	width: 40%;
+	height: 100%;
+	background: #FF8D10;
+	margin-top: -0.1rem;
+	box-shadow: 0.01rem 0.01rem 0.1rem 0.002rem #FF8D10,-0.01rem -0.01rem 0.1rem 0.002rem #FF8D10; 
+}
+.lianxi .text a{
+	display: inline-block;
+	float: left;
+	display: flex;
+	align-items: center;
+}
+.lianxi .text span{
+	display: inline-block;
+	line-height: 1.5rem;
+	margin-left: 0.3rem;
+	float: right;
+	color: #000;
+	font-size: 0.4rem;
+	text-align: center;
+}
+.lianxi .text img{
+	width: 0.8rem;
+	height: 0.8rem;
+	display: block;
+	margin-left: 0.6rem;
+}
